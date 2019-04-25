@@ -31,17 +31,17 @@ Você deverá desenvolver uma tela de login e cadastro de usuários, onde deve s
 
 5) A campanha deverá possuir 2 botões um “Curti” e “Não Curti”, porém não se preocupe, os botões neste primeiro momento não terão nenhuma ação.
 
-# Requisitos do projeto
+## Requisitos do projeto
 - O projeto deverá ser enviado no Github público com instruções para execução do projeto.
 - Tela deve ser responsiva.
 - Deve ser desenvolvido em React.Js
 - Pode ser utilizado bibliotecas de componentes como Material UI, Reactstrap, etc.
 
-# O que avaliaremos?
+## O que avaliaremos?
 - Conceitos de UI aplicados.
 - Qualidade do código.
 
-# Diferenciais
+## Diferenciais
 - Utilização de Redux.
 - Criar formulários com Formik ou Redux Forms.
 - Testes no código.
